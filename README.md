@@ -34,3 +34,8 @@
   ## Website
   
   ## Screenshots
+  
+  <img width="1280" alt="Screenshot 2023-03-30 014251" src="https://user-images.githubusercontent.com/114839168/228783091-a46ecb27-438d-4f55-afa3-7f1bfe28d831.png">
+  <img width="1278" alt="Screenshot 2023-03-30 014324" src="https://user-images.githubusercontent.com/114839168/228783109-1c218a3b-7aa8-458e-a18c-296e4d4f8932.png">
+  <img width="1279" alt="Screenshot 2023-03-30 014418" src="https://user-images.githubusercontent.com/114839168/228783127-4db7aa9b-ab95-4c43-97e5-695e4f4bea00.png">
+
